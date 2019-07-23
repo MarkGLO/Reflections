@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Adds .git file. Need to do it to tell Git it's a repo.
